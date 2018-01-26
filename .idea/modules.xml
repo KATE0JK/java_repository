@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sendbox.iml" filepath="$PROJECT_DIR$/.idea/modules/sendbox.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/sendbox_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sendbox_main.iml" group="sendbox" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sendbox_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sendbox_test.iml" group="sendbox" />
     </modules>
   </component>
 </project>
